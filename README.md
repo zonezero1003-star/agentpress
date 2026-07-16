@@ -1,6 +1,6 @@
-# AgentPress — Frontend
+# AgentPress Frontend
 
-Part of AgentPress. Full architecture, API reference, and setup docs live in the root `README.md` of the combined project — this file is just the quick-start for this repo standalone.
+Part of AgentPress. Full architecture, API reference, and setup docs live in the root `README.md` of the combined project this file is just the quick-start for this repo standalone.
 
 ## Quick start
 
